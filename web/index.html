@@ -8,7 +8,37 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Museum Online JavaScript</h1>
+    <h1 id="Kopje">Museum Online JavaScript</h1>
+    <p id="mkBlauw">Maak achtergrond blauw</p>
+    <p id="mkGroen">Maak achtergrond groen</p>
+
+    <script>
+        const Kopje = document.getElementById("Kopje");
+        const mkBlauw = document.getElementById("mkBlauw");
+        const mkGroen = document.getElementById("mkGroen");
+
+        Kopje.style.backgroundColor = "red"
+
+        Kopje.addEventListener('click', voeruitKopje);
+        mkBlauw.addEventListener('click', voeruitBlauw);
+        mkGroen.addEventListener('click', voeruitGroen);
+
+        function voeruitKopje(){
+            Kopje.style.backgroundColor = "yellow";
+            Kopje.style.color = "black";
+        }
+
+        function voeruitBlauw(){
+            document.body.style.backgroundColor = "blue";
+            document.body.style.color = "white";
+            Kopje.style.backgroundColor = "white";
+            Kopje.style.color = "black";
+        }
+
+        function voeruitGroen(){
+            document.body.style.backgroundColor = "green";
+        }
+    </script>
     
 </body>
 </html>
