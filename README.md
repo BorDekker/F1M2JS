@@ -4,5 +4,5 @@
 
 ## Bor Dekker
 
--[Opdracht 1 - Background Color](/web/F1M2JS/Les1-background-color/Les1-background-color)
--[Opdracht 2 - Boodschappen](/web/F1M2JS/Les1-background-color/Les2-boodschappen)
+-[Opdracht 1 - Background Color](http://127.0.0.1:5500/web/Les1-background-color/index.html)
+-[Opdracht 2 - Boodschappen](http://127.0.0.1:5500/web/Les2-boodschappen/index.html)
