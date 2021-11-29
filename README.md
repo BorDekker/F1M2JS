@@ -2,4 +2,4 @@
 
 ## JavaScript
 
-(live view)[http://32562.hosts1.ma-cloud.nl/F1M2JS/]
+[Live view van de opdrachten](http://32562.hosts1.ma-cloud.nl/F1M2JS/)
