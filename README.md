@@ -2,4 +2,7 @@
 
 ## JavaScript
 
-[Live view van de opdrachten](http://32562.hosts1.ma-cloud.nl/F1M2JS/)
+## Bor Dekker
+
+-[Opdracht 1 - Background Color](/web/F1M2JS/Les1-background-color/Les1-background-color)
+-[Opdracht 2 - Boodschappen](/web/F1M2JS/Les1-background-color/Les2-boodschappen)
