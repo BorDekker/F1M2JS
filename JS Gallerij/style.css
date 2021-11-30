@@ -1,0 +1,17 @@
+body {
+    padding: 5px;
+    margin: 5px;
+}
+
+.button {
+    background-color: crimson;
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+    color: blue;
+}
+
+.button:hover {
+    background-color: gold;
+    color: green;
+}
