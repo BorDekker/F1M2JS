@@ -1,0 +1,13 @@
+body{
+    background-color: burlywood;
+}
+
+#container{
+    background-color: cadetblue;
+    width: 700px;
+    margin: auto;
+}
+
+.Information{
+    margin: 60%;
+}
