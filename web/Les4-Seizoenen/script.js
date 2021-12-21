@@ -10,7 +10,7 @@ let seizoenen = [
     {
         "titel":"Lente",
         "image":"img/spring.jpg",
-        "backGround":"green"
+        "backGround":"pink"
     },
     {
         "titel":"Zomer",
