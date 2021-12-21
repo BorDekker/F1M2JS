@@ -10,4 +10,4 @@
 
 -[Opdracht 3 - Tentoonstellingen](http://127.0.0.1:5500/web/Les3-tentoonstelling/index.html)
 
--[Opdracht 4 - Seizoenen]()
+-[Opdracht 4 - Seizoenen](http://127.0.0.1:5500/web/Les4-Seizoenen/index.html)
