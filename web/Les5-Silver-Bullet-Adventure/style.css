@@ -9,9 +9,32 @@ body{
     margin: 50px auto auto auto;
     display: grid;
     grid-template-columns: auto auto;
-    border: inset 2px gray;
+    border: inset 4px black;
 }
 
 #MyInteraction{
     padding: 10px;
+}
+
+#MapImage {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+nav button {
+    background-color:black;
+    color: aqua;
+    font-size: 16px;
+    padding: 10px;
+}
+
+#KnopNoord, #KnopZuid {
+    display: block;
+    width: 300px;
+}
+
+#KnopWest, #KnopOost {
+    display: inline-block;
+    width: 150px;
 }
